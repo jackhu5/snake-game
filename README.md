@@ -2,7 +2,7 @@
 
 一个使用HTML5 Canvas和JavaScript开发的经典贪吃蛇小游戏。
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-在线游玩-success)](https://github.com/pages)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-在线游玩-success)](https://jackhu5.github.io/snake-game)
 
 ## 🎮 游戏特色
 
@@ -15,7 +15,7 @@
 ## 🚀 快速开始
 
 ### 在线游玩
-直接访问GitHub Pages链接即可开始游戏！
+直接访问 [https://jackhu5.github.io/snake-game](https://jackhu5.github.io/snake-game) 即可开始游戏！
 
 ### 本地运行
 1. 下载或克隆此项目
@@ -65,7 +65,7 @@ E:\AI_project\practice\
 
 1. **入口文件**: `index.html` 提供自动重定向到主游戏文件
 2. **主游戏**: `snake_game.html` 包含完整的游戏逻辑
-3. **访问方式**: 通过 `https://用户名.github.io/仓库名` 访问
+3. **访问方式**: 通过 `https://jackhu5.github.io/snake-game` 访问
 
 ---
 
