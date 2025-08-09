@@ -4,10 +4,12 @@
 
 ### 基本信息
 
-- **文件**: `snake_game.html`
-- **状态**: ✅ 已完成基础功能
-- **版本**: v1.2 (2025-08-08)
+- **主文件**: `snake_game.html`
+- **入口文件**: `index.html` (GitHub Pages重定向)
+- **状态**: ✅ 已完成基础功能 + GitHub Pages部署
+- **版本**: v1.3 (2025-08-09)
 - **控制**: WASD键 (W:上 A:左 S:下 D:右)
+- **在线访问**: 通过GitHub Pages可直接访问
 
 ### 关键问题解决记录
 
@@ -61,9 +63,12 @@
 ```
 E:\AI_project\practice\
 ├── snake_game.html        # 贪吃蛇游戏 (完成) 
+├── index.html            # GitHub Pages入口文件 (重定向)
 ├── CLAUDE.md             # 项目记录 (本文件)
 ├── development_log.md    # 详细开发日志
 └── .git/                # Git版本控制
 ```
 
-*最后更新: 2025-08-08*
+*最后更新: 2025-08-09*
+
+- to memorize
