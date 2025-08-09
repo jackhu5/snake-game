@@ -24,10 +24,10 @@
 
 ## 📁 项目结构
 
-  ├── snake_game.html        # 主游戏文件
-  ├── CLAUDE.md             # 项目开发记录
-  ├── development_log.md    # 详细开发日志
-  └── README.md            # 项目说明
+├── snake_game.html        # 主游戏文件\
+├── CLAUDE.md             # 项目开发记录\
+├── development_log.md    # 详细开发日志\
+└── README.md            # 项目说明
 
 ## 🐛 版本历史
 
